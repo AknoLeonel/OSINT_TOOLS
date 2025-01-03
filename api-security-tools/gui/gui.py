@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import subprocess
-import requests
 
 # Funções para Nmap e Whois
 def executar_nmap():
