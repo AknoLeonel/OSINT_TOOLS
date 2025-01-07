@@ -39,7 +39,7 @@ class MainApp(QMainWindow):
 
         # Barra superior
         barra_superior = QHBoxLayout()
-        label_titulo = QLabel("OSINT Tools - Segurança da Informação")
+        label_titulo = QLabel("OS'int Tools - Segurança da Informação")
         label_titulo.setFont(QFont("Segoe UI", 14, QFont.Bold))
         barra_superior.addWidget(label_titulo)
 
